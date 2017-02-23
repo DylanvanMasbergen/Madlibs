@@ -1,0 +1,79 @@
+*{ margin: 0;
+   padding: 0;
+
+
+}
+body{ background-color: #383737;
+
+
+
+}
+.stoofpot{ margin-left: 20%;
+
+}
+.title{ color:white;
+	text-shadow:3px 3px black;
+	font-size: 60px;
+	font-family: ravie;
+	margin-left: 20%;
+
+
+}
+
+.head{ background-color:#af1111;
+	width: 75%;
+	height: 45px;
+}
+
+.main{background-color: white;
+	width: 75%;
+	height: 500px;
+
+}
+.footer{background-color:#555243;
+	width: 75%;
+	height: 40px;
+	text-align: center;
+	color: white;	
+	font-family: tahoma;
+}
+
+#inpt{float: right;
+	margin-right: 35%;
+
+
+}
+p { padding-top: 3px;
+	margin-left: 2%;
+	font-family: tahoma;
+}
+
+h2{margin-left: 2%;
+  padding-top: 20px;
+  font-family: tahoma;
+}
+
+#submit{margin-right: 43%;
+		margin-top: 5%;
+		float: right;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #af1111;
+}
+
+
+li a {
+	display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: tahoma;
+    list-style-type: none;
+}
