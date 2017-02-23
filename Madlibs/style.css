@@ -8,14 +8,15 @@ body{ background-color: #383737;
 
 
 }
-.stoofpot{ margin-left: 20%;
+.stoofpot{ margin-left: 25%;
+		width: 60%;
 
 }
 .title{ color:white;
 	text-shadow:3px 3px black;
 	font-size: 60px;
 	font-family: ravie;
-	margin-left: 20%;
+	margin-left: 25%;
 
 
 }
@@ -28,6 +29,7 @@ body{ background-color: #383737;
 .main{background-color: white;
 	width: 75%;
 	height: 500px;
+
 
 }
 .footer{background-color:#555243;
